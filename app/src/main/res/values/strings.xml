@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoadingFileInBackground</string>
+    <string name="button_text">Start Download</string>
+    <string name="first_name_hint">Enter first name</string>
+    <string name="last_name_hint">Enter last name</string>
+    <string name="file_download_complete">File Download Complete</string>
+    <string name="permission_denied">Permission Denied, Please allow to proceed !</string>
+    <string name="download">Download</string>
+    <string name="downloading_file">Downloading File</string>
+</resources>
